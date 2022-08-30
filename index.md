@@ -19,8 +19,8 @@ Syntax highlighted code block
 - I like the memes 
 - I like the instructors
 
-1. Numbered
-2. List
+1. My favorite color is purple
+2. I'm from Chicago
 
 **Bold** and _Italic_ and `Code` text
 
